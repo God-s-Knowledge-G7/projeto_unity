@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 376ac9110904afe468f9d9dab4e6cbef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7263931732169608938
+    second: Matinhos_0
+  - first:
+      213: -3062461121657227799
+    second: Matinhos_1
+  - first:
+      213: 8849799256033811615
+    second: Matinhos_2
+  - first:
+      213: -2478699796868547932
+    second: Matinhos_3
+  - first:
+      213: -9105783635919114882
+    second: Matinhos_4
+  - first:
+      213: 9176915701355555019
+    second: Matinhos_5
+  - first:
+      213: 6739624044281034134
+    second: Matinhos_6
+  - first:
+      213: -1800475336094049816
+    second: Matinhos_7
+  - first:
+      213: -1985149967082965205
+    second: Matinhos_8
+  - first:
+      213: 7281135755026939032
+    second: Matinhos_9
+  - first:
+      213: -5627460614584544830
+    second: Matinhos_10
+  - first:
+      213: -8532742687472496673
+    second: Matinhos_11
+  - first:
+      213: -4449630499410627975
+    second: Matinhos_12
+  - first:
+      213: 727901462253491463
+    second: Matinhos_13
+  - first:
+      213: -867349165644004647
+    second: Matinhos_14
+  - first:
+      213: 6809608150807588602
+    second: Matinhos_15
+  - first:
+      213: 8456606095117665824
+    second: Matinhos_16
+  - first:
+      213: 6062992696409061713
+    second: Matinhos_17
+  - first:
+      213: 164848718364013946
+    second: Matinhos_18
+  - first:
+      213: -6752740235215006972
+    second: Matinhos_19
+  - first:
+      213: -3966261591708171696
+    second: Matinhos_20
+  - first:
+      213: -7793492712402186610
+    second: Matinhos_21
+  - first:
+      213: -1339573247113270084
+    second: Matinhos_22
+  - first:
+      213: -1773570107933998655
+    second: Matinhos_23
+  - first:
+      213: 1477270705715357153
+    second: Matinhos_24
+  - first:
+      213: -6436973700464227995
+    second: Matinhos_25
+  - first:
+      213: -6505824079426300934
+    second: Matinhos_26
+  - first:
+      213: -7821998556404345337
+    second: Matinhos_27
+  - first:
+      213: -8745551076191389818
+    second: Matinhos_28
+  - first:
+      213: -9002603877804898151
+    second: Matinhos_29
+  - first:
+      213: 6636998102486153884
+    second: Matinhos_30
+  - first:
+      213: -6897100643618129071
+    second: Matinhos_31
+  - first:
+      213: 538700280037045684
+    second: Matinhos_32
+  - first:
+      213: -6589460284985370117
+    second: Matinhos_33
+  - first:
+      213: -1446126807077421047
+    second: Matinhos_34
+  - first:
+      213: 7211369187176024001
+    second: Matinhos_35
+  - first:
+      213: -5476924317238661460
+    second: Matinhos_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matinhos_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 97
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee48a8ac6baec460800000000000000
+      internalID: 7263931732169608938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53d21e5d3ff75d0800000000000000
+      internalID: -3062461121657227799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 97
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c596df88dc0da70800000000000000
+      internalID: 8849799256033811615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa31dedaa3e99dd0800000000000000
+      internalID: -2478699796868547932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 97
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de9731702c1a180800000000000000
+      internalID: -9105783635919114882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 103
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a0018534fa5f70800000000000000
+      internalID: 9176915701355555019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 97
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957d073c54f78d50800000000000000
+      internalID: 6739624044281034134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 103
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9134d983d6307e0800000000000000
+      internalID: -1800475336094049816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27342a6f945374e0800000000000000
+      internalID: -1985149967082965205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cb6cf546acb0560800000000000000
+      internalID: 7281135755026939032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1df28f26e37e1b0800000000000000
+      internalID: -5627460614584544830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc361fbbb959980800000000000000
+      internalID: -8532742687472496673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972b2ecc2acbf32c0800000000000000
+      internalID: -4449630499410627975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7055b19f5860a1a00800000000000000
+      internalID: 727901462253491463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2ce8d778e86f3f0800000000000000
+      internalID: -867349165644004647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_15
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afead78c886908e50800000000000000
+      internalID: 6809608150807588602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_16
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02644e04076eb5570800000000000000
+      internalID: 8456606095117665824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_17
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ff39fbb3142450800000000000000
+      internalID: 6062992696409061713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_18
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75f3c33909a94200800000000000000
+      internalID: 164848718364013946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403958b98827942a0800000000000000
+      internalID: -6752740235215006972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_20
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05285f3b81205f8c0800000000000000
+      internalID: -3966261591708171696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_21
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0ca57ba3f7d390800000000000000
+      internalID: -7793492712402186610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_22
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 96
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6237aa31e86de0800000000000000
+      internalID: -1339573247113270084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 102
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c75432630367e0800000000000000
+      internalID: -1773570107933998655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_24
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 95
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5214341e1508410800000000000000
+      internalID: 1477270705715357153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_25
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 101
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5694c4326864ba6a0800000000000000
+      internalID: -6436973700464227995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_26
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 95
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3dc96187ba6b5a0800000000000000
+      internalID: -6505824079426300934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_27
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 101
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70696e371cda27390800000000000000
+      internalID: -7821998556404345337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_28
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 95
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b392d1af81a680800000000000000
+      internalID: -8745551076191389818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_29
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 101
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99882e19873501380800000000000000
+      internalID: -9002603877804898151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_30
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 95
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9af0a12c9a5b1c50800000000000000
+      internalID: 6636998102486153884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_31
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 101
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf50dc1839840a0800000000000000
+      internalID: -6897100643618129071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_32
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 95
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f200fc09d97700800000000000000
+      internalID: 538700280037045684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_33
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 101
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf917e388c88d84a0800000000000000
+      internalID: -6589460284985370117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_34
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 94
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000bf3b4535eebe0800000000000000
+      internalID: -1446126807077421047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_35
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 100
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c703d9711ee31460800000000000000
+      internalID: 7211369187176024001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matinhos_36
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 94
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6a49f95e0ef3b0800000000000000
+      internalID: -5476924317238661460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
