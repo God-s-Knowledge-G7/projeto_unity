@@ -9,7 +9,7 @@ public class Player_Base_Controller : MonoBehaviour
 
     public Vector2 playerDirection;
 
-    private bool IsWalking;
+    private bool Walking;
     private bool FacingRight = true;
 
     private Animator playerAnimator;
@@ -34,12 +34,12 @@ public class Player_Base_Controller : MonoBehaviour
     {
         if (playerDirection.x != 0 || playerDirection.y != 0)
         {
-            IsWalking = true;
+            Walking = true;
 
         }
         else
         {
-            IsWalking = false;
+            Walking = false;
         }
 
         playerRigidBody.MovePosition(playerRigidBody.position + playerSpeed * Time.fixedDeltaTime * playerDirection);
@@ -63,7 +63,7 @@ public class Player_Base_Controller : MonoBehaviour
     }
     void UpdateAnimator()
     {
-        playerAnimator.SetBool("IsWalking", IsWalking);
+        playerAnimator.SetBool("Walking", Walking);
     }
 
     void flip()

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "FLORESTA BONUS \xC1RVORES_0": 3905941977536020756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
