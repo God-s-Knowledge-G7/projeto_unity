@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 4b942765f4e9c704d90fa7b1cb7ac748
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 829634986878353291
+    second: FLORESTA BONUS NUVENS_0
+  - first:
+      213: 1184630350375755760
+    second: FLORESTA BONUS NUVENS_1
+  - first:
+      213: 5464137699910073334
+    second: FLORESTA BONUS NUVENS_2
+  - first:
+      213: 8919797561788206141
+    second: FLORESTA BONUS NUVENS_3
+  - first:
+      213: 2158532186761791027
+    second: FLORESTA BONUS NUVENS_4
+  - first:
+      213: 1445459822590870440
+    second: FLORESTA BONUS NUVENS_5
+  - first:
+      213: -2848391085829560543
+    second: FLORESTA BONUS NUVENS_6
+  - first:
+      213: -3411458356212737534
+    second: FLORESTA BONUS NUVENS_7
+  - first:
+      213: -5158707021116723368
+    second: FLORESTA BONUS NUVENS_8
+  - first:
+      213: -160728204447807832
+    second: FLORESTA BONUS NUVENS_9
+  - first:
+      213: 8357348376630176000
+    second: FLORESTA BONUS NUVENS_10
+  - first:
+      213: 8268338113026816751
+    second: FLORESTA BONUS NUVENS_11
+  - first:
+      213: 3789902399515331251
+    second: FLORESTA BONUS NUVENS_12
+  - first:
+      213: -7424109306213994658
+    second: FLORESTA BONUS NUVENS_13
+  - first:
+      213: 7759660175221309680
+    second: FLORESTA BONUS NUVENS_14
+  - first:
+      213: -2672145927845012899
+    second: FLORESTA BONUS NUVENS_15
+  - first:
+      213: 4524878083610732841
+    second: FLORESTA BONUS NUVENS_16
+  - first:
+      213: -625632851476654107
+    second: FLORESTA BONUS NUVENS_17
+  - first:
+      213: 6820051086581082539
+    second: FLORESTA BONUS NUVENS_18
+  - first:
+      213: -740339187233278647
+    second: FLORESTA BONUS NUVENS_19
+  - first:
+      213: -2800250452289500673
+    second: FLORESTA BONUS NUVENS_20
+  - first:
+      213: -7067544559667565566
+    second: FLORESTA BONUS NUVENS_21
+  - first:
+      213: -5811623244233417342
+    second: FLORESTA BONUS NUVENS_22
+  - first:
+      213: 142576413785837522
+    second: FLORESTA BONUS NUVENS_23
+  - first:
+      213: -2114318559875224894
+    second: FLORESTA BONUS NUVENS_24
+  - first:
+      213: -2541526775990974909
+    second: FLORESTA BONUS NUVENS_25
+  - first:
+      213: -4662939246415727242
+    second: FLORESTA BONUS NUVENS_26
+  - first:
+      213: 1513010352776097865
+    second: FLORESTA BONUS NUVENS_27
+  - first:
+      213: -4185725527714030526
+    second: FLORESTA BONUS NUVENS_28
+  - first:
+      213: 2263777852743884079
+    second: FLORESTA BONUS NUVENS_29
+  - first:
+      213: -3237762611878982849
+    second: FLORESTA BONUS NUVENS_30
+  - first:
+      213: -3132030011416945893
+    second: FLORESTA BONUS NUVENS_31
+  - first:
+      213: -8692951940048702393
+    second: FLORESTA BONUS NUVENS_32
+  - first:
+      213: 6322688251109973760
+    second: FLORESTA BONUS NUVENS_33
+  - first:
+      213: 3044391161041600582
+    second: FLORESTA BONUS NUVENS_34
+  - first:
+      213: 6702290613949432876
+    second: FLORESTA BONUS NUVENS_35
+  - first:
+      213: 7240742696796292628
+    second: FLORESTA BONUS NUVENS_36
+  - first:
+      213: 4617941158805650977
+    second: FLORESTA BONUS NUVENS_37
+  - first:
+      213: 2709895930877644847
+    second: FLORESTA BONUS NUVENS_38
+  - first:
+      213: -4037505079730195574
+    second: FLORESTA BONUS NUVENS_39
+  - first:
+      213: 88109460433220749
+    second: FLORESTA BONUS NUVENS_40
+  - first:
+      213: 2336149267718586153
+    second: FLORESTA BONUS NUVENS_41
+  - first:
+      213: 1708068585873087653
+    second: FLORESTA BONUS NUVENS_42
+  - first:
+      213: 5336072392807950638
+    second: FLORESTA BONUS NUVENS_43
+  - first:
+      213: -2977726569611551355
+    second: FLORESTA BONUS NUVENS_44
+  - first:
+      213: 4635653408219924571
+    second: FLORESTA BONUS NUVENS_45
+  - first:
+      213: -8692746245027476045
+    second: FLORESTA BONUS NUVENS_46
+  - first:
+      213: 2201044105754114357
+    second: FLORESTA BONUS NUVENS_47
+  - first:
+      213: 2642803707366049117
+    second: FLORESTA BONUS NUVENS_48
+  - first:
+      213: -6484297226556395116
+    second: FLORESTA BONUS NUVENS_49
+  - first:
+      213: 8937333528090799937
+    second: FLORESTA BONUS NUVENS_50
+  - first:
+      213: 8529810621484191924
+    second: FLORESTA BONUS NUVENS_51
+  - first:
+      213: 9151730182317884992
+    second: FLORESTA BONUS NUVENS_52
+  - first:
+      213: 8579149558344129044
+    second: FLORESTA BONUS NUVENS_53
+  - first:
+      213: 6974539830602149212
+    second: FLORESTA BONUS NUVENS_54
+  - first:
+      213: 7164099575444130535
+    second: FLORESTA BONUS NUVENS_55
+  - first:
+      213: 7731579783108283564
+    second: FLORESTA BONUS NUVENS_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fbe1eff94738b00800000000000000
+      internalID: 829634986878353291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 175
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff1b48f607a07010800000000000000
+      internalID: 1184630350375755760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbb5fea94484db40800000000000000
+      internalID: 5464137699910073334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 175
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c08c29f9c79cb70800000000000000
+      internalID: 8919797561788206141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 168
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3360f246695a4fd10800000000000000
+      internalID: 2158532186761791027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 175
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c0aedc0e4f0410800000000000000
+      internalID: 1445459822590870440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 175
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1276dbb166b7878d0800000000000000
+      internalID: -2848391085829560543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 175
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad6ef13b018a0d0800000000000000
+      internalID: -3411458356212737534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f260adb479868b0800000000000000
+      internalID: -5158707021116723368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 175
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a68084bc8af4cdf0800000000000000
+      internalID: -160728204447807832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 175
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009aa35c1144bf370800000000000000
+      internalID: 8357348376630176000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_11
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 175
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea79cdc4b90fb270800000000000000
+      internalID: 8268338113026816751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 163
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba03801720789430800000000000000
+      internalID: 3789902399515331251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 163
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f617dabe348f890800000000000000
+      internalID: -7424109306213994658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0cfc121d9dfab60800000000000000
+      internalID: 7759660175221309680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 163
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9aceaf61aaead0800000000000000
+      internalID: -2672145927845012899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 163
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9296199a4a89bce30800000000000000
+      internalID: 4524878083610732841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 163
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e75bef7c3e4157f0800000000000000
+      internalID: -625632851476654107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 163
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9aead3450b5ae50800000000000000
+      internalID: 6820051086581082539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_19
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 163
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b8a38e69c9b5f0800000000000000
+      internalID: -740339187233278647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 163
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9482dcc038329d0800000000000000
+      internalID: -2800250452289500673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 156
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c25ce1ba90bed90800000000000000
+      internalID: -7067544559667565566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d501f5377f85fa0800000000000000
+      internalID: -5811623244233417342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 156
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfcd013e788af100800000000000000
+      internalID: 142576413785837522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 156
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca2f90d87e68a2e0800000000000000
+      internalID: -2114318559875224894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 156
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3460ae1ecdeaabcd0800000000000000
+      internalID: -2541526775990974909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 156
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b920f579e94fb0800000000000000
+      internalID: -4662939246415727242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94035ba46ea4ff410800000000000000
+      internalID: 1513010352776097865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c12593fc059e5c0800000000000000
+      internalID: -4185725527714030526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d123b86fd8a6f10800000000000000
+      internalID: 2263777852743884079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 149
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b89e31f082113d0800000000000000
+      internalID: -3237762611878982849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 147
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b51af7c4bc884d0800000000000000
+      internalID: -3132030011416945893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 149
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744badb844e6c5780800000000000000
+      internalID: -8692951940048702393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 149
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f12f02773beb750800000000000000
+      internalID: 6322688251109973760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_34
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 147
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640493f81a9df3a20800000000000000
+      internalID: 3044391161041600582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_35
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 149
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2404e99dc1530d50800000000000000
+      internalID: 6702290613949432876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_36
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 149
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160c80ae194c7460800000000000000
+      internalID: 7240742696796292628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e344c5409361040800000000000000
+      internalID: 4617941158805650977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 134
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201d32ddfb7b9520800000000000000
+      internalID: 2709895930877644847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 137
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b8d78586e7f7c0800000000000000
+      internalID: -4037505079730195574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 141
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8439726617093100800000000000000
+      internalID: 88109460433220749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb7aca16bab6020800000000000000
+      internalID: 2336149267718586153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac18f0445744b710800000000000000
+      internalID: 1708068585873087653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 135
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29261dc1998d0a40800000000000000
+      internalID: 5336072392807950638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 140
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d9f0c267dfca6d0800000000000000
+      internalID: -2977726569611551355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 134
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5807cac636255040800000000000000
+      internalID: 4635653408219924571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 137
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc686a8592d5780800000000000000
+      internalID: -8692746245027476045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_47
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 141
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539f07ad3fdab8e10800000000000000
+      internalID: 2201044105754114357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_48
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5583ac38ff1da420800000000000000
+      internalID: 2642803707366049117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 134
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4913e0917062306a0800000000000000
+      internalID: -6484297226556395116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 140
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f6a05ed79c70c70800000000000000
+      internalID: 8937333528090799937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_51
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 140
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b05bee3199ff5670800000000000000
+      internalID: 8529810621484191924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 134
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464745ec1a710f70800000000000000
+      internalID: 9151730182317884992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 137
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1d0ca1134f0770800000000000000
+      internalID: 8579149558344129044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_54
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 141
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5daad2f50b8ac060800000000000000
+      internalID: 6974539830602149212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_55
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eacfd95b9efb6360800000000000000
+      internalID: 7164099575444130535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORESTA BONUS NUVENS_56
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 134
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc2cc59d61c4b60800000000000000
+      internalID: 7731579783108283564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FLORESTA BONUS NUVENS_0: 829634986878353291
+      FLORESTA BONUS NUVENS_1: 1184630350375755760
+      FLORESTA BONUS NUVENS_10: 8357348376630176000
+      FLORESTA BONUS NUVENS_11: 8268338113026816751
+      FLORESTA BONUS NUVENS_12: 3789902399515331251
+      FLORESTA BONUS NUVENS_13: -7424109306213994658
+      FLORESTA BONUS NUVENS_14: 7759660175221309680
+      FLORESTA BONUS NUVENS_15: -2672145927845012899
+      FLORESTA BONUS NUVENS_16: 4524878083610732841
+      FLORESTA BONUS NUVENS_17: -625632851476654107
+      FLORESTA BONUS NUVENS_18: 6820051086581082539
+      FLORESTA BONUS NUVENS_19: -740339187233278647
+      FLORESTA BONUS NUVENS_2: 5464137699910073334
+      FLORESTA BONUS NUVENS_20: -2800250452289500673
+      FLORESTA BONUS NUVENS_21: -7067544559667565566
+      FLORESTA BONUS NUVENS_22: -5811623244233417342
+      FLORESTA BONUS NUVENS_23: 142576413785837522
+      FLORESTA BONUS NUVENS_24: -2114318559875224894
+      FLORESTA BONUS NUVENS_25: -2541526775990974909
+      FLORESTA BONUS NUVENS_26: -4662939246415727242
+      FLORESTA BONUS NUVENS_27: 1513010352776097865
+      FLORESTA BONUS NUVENS_28: -4185725527714030526
+      FLORESTA BONUS NUVENS_29: 2263777852743884079
+      FLORESTA BONUS NUVENS_3: 8919797561788206141
+      FLORESTA BONUS NUVENS_30: -3237762611878982849
+      FLORESTA BONUS NUVENS_31: -3132030011416945893
+      FLORESTA BONUS NUVENS_32: -8692951940048702393
+      FLORESTA BONUS NUVENS_33: 6322688251109973760
+      FLORESTA BONUS NUVENS_34: 3044391161041600582
+      FLORESTA BONUS NUVENS_35: 6702290613949432876
+      FLORESTA BONUS NUVENS_36: 7240742696796292628
+      FLORESTA BONUS NUVENS_37: 4617941158805650977
+      FLORESTA BONUS NUVENS_38: 2709895930877644847
+      FLORESTA BONUS NUVENS_39: -4037505079730195574
+      FLORESTA BONUS NUVENS_4: 2158532186761791027
+      FLORESTA BONUS NUVENS_40: 88109460433220749
+      FLORESTA BONUS NUVENS_41: 2336149267718586153
+      FLORESTA BONUS NUVENS_42: 1708068585873087653
+      FLORESTA BONUS NUVENS_43: 5336072392807950638
+      FLORESTA BONUS NUVENS_44: -2977726569611551355
+      FLORESTA BONUS NUVENS_45: 4635653408219924571
+      FLORESTA BONUS NUVENS_46: -8692746245027476045
+      FLORESTA BONUS NUVENS_47: 2201044105754114357
+      FLORESTA BONUS NUVENS_48: 2642803707366049117
+      FLORESTA BONUS NUVENS_49: -6484297226556395116
+      FLORESTA BONUS NUVENS_5: 1445459822590870440
+      FLORESTA BONUS NUVENS_50: 8937333528090799937
+      FLORESTA BONUS NUVENS_51: 8529810621484191924
+      FLORESTA BONUS NUVENS_52: 9151730182317884992
+      FLORESTA BONUS NUVENS_53: 8579149558344129044
+      FLORESTA BONUS NUVENS_54: 6974539830602149212
+      FLORESTA BONUS NUVENS_55: 7164099575444130535
+      FLORESTA BONUS NUVENS_56: 7731579783108283564
+      FLORESTA BONUS NUVENS_6: -2848391085829560543
+      FLORESTA BONUS NUVENS_7: -3411458356212737534
+      FLORESTA BONUS NUVENS_8: -5158707021116723368
+      FLORESTA BONUS NUVENS_9: -160728204447807832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
