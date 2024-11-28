@@ -28,6 +28,11 @@ git pull
   - Dentro dela abra o GIT BASH Here
   - Escreva essa sequência de comandos dentro dela:
 
+Puxa alterações antigas para não causar erros.
+```
+git pull
+```
+
 Adicionando tudo que você fez para o git.
 ```
 git add .
