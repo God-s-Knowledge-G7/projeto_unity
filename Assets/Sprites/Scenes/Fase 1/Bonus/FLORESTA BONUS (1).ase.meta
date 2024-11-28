@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1edb822b486c77f4e95709c0c23da382
+guid: 6fe723587a6418349a361b34ef3c359b
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 100
+    spritePixelsToUnits: 64
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638684096968873661
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Floresta BONUS COMPLETO
+  - name: FLORESTA BONUS (1)
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.7590133, y: -0.68421054}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 800
-      height: 192
-    spriteID: d384be4edade6f44a809e4950048600f
+      width: 527
+      height: 114
+    spriteID: e4b9e125a506adb4eafc30cfcbc0a407
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -142,17 +142,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
+    uvTransform: {x: 4, y: -74}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1134534678
-    name: Floresta BONUS COMPLETO
+    guid: -82697899
+    name: FLORESTA BONUS (1)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Floresta BONUS COMPLETO
+    - name: FLORESTA BONUS (1)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -160,7 +160,7 @@ ScriptedImporter:
         y: 0
         width: 800
         height: 192
-      spriteId: d384be4edade6f44a809e4950048600f
+      spriteId: e4b9e125a506adb4eafc30cfcbc0a407
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -171,6 +171,42 @@ ScriptedImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0

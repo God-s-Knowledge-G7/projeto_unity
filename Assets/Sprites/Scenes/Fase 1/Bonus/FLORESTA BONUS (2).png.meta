@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1529a35e823aebb43919aa468710e77c
+guid: ffe444c78062c4442bcf7403314b7169
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 399073513745789359
-    second: FLORESTA BONUS_0
+      213: -90992246833191749
+    second: FLORESTA BONUS (2)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FLORESTA BONUS_0
+      name: FLORESTA BONUS (2)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa1b5121f3bc98500800000000000000
-      internalID: 399073513745789359
+      spriteID: bb4613a980bbcbef0800000000000000
+      internalID: -90992246833191749
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FLORESTA BONUS_0: 399073513745789359
+      FLORESTA BONUS (2)_0: -90992246833191749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 19d71f73f7faddb4e9fe32ac1f34239c
+guid: b315decb18451e744af1f50bc320cf68
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,7 +122,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: FLORESTA BONUS MONTANHAS
+  - name: FLORESTA BONUS (3)
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -133,8 +133,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 800
-      height: 150
-    spriteID: 86a2a943baf26164aadc2f455ab37059
+      height: 104
+    spriteID: 1fce6a0d162c91b48948a4d7f85c31b5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,13 +146,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1758228986
-    name: FLORESTA BONUS MONTANHAS
+    guid: -82698693
+    name: FLORESTA BONUS (3)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: FLORESTA BONUS MONTANHAS
+    - name: FLORESTA BONUS (3)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -160,7 +160,7 @@ ScriptedImporter:
         y: 0
         width: 800
         height: 192
-      spriteId: 86a2a943baf26164aadc2f455ab37059
+      spriteId: 1fce6a0d162c91b48948a4d7f85c31b5
     linkedCells: []
     parentIndex: -1
   platformSettings:

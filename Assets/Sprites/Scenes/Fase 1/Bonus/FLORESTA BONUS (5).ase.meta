@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4797ab9974b6bf4e9edcf658a2a4546
+guid: 5aea18ff28996f34fa5cc2820cf95b4c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,7 +122,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: "FLORESTA BONUS C\xC9U"
+  - name: FLORESTA BONUS (5)
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -133,8 +133,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 800
-      height: 192
-    spriteID: 2dc3b4c055133e241b980ec5aa952de2
+      height: 150
+    spriteID: 90e4fb03873e08e4ca4442ea2365a63e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,13 +146,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 698490166
-    name: "FLORESTA BONUS C\xC9U"
+    guid: -82699487
+    name: FLORESTA BONUS (5)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: "FLORESTA BONUS C\xC9U"
+    - name: FLORESTA BONUS (5)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -160,7 +160,7 @@ ScriptedImporter:
         y: 0
         width: 800
         height: 192
-      spriteId: 2dc3b4c055133e241b980ec5aa952de2
+      spriteId: 90e4fb03873e08e4ca4442ea2365a63e
     linkedCells: []
     parentIndex: -1
   platformSettings:
