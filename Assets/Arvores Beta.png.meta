@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a428cd0b45a98124fac0904c1f2b59a2
+guid: 0b07142fe71f77248b66c78b7c916b62
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6727582656658102079
-    second: "FLORESTA BONUS C\xC9U_0"
+      213: -8563229485845523342
+    second: Arvores Beta_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "FLORESTA BONUS C\xC9U_0"
+      name: Arvores Beta_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 800
+        width: 534
         height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c8a0d0d733d2a2a0800000000000000
-      internalID: -6727582656658102079
+      spriteID: 274d60e072c492980800000000000000
+      internalID: -8563229485845523342
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "FLORESTA BONUS C\xC9U_0": -6727582656658102079
+      Arvores Beta_0: -8563229485845523342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

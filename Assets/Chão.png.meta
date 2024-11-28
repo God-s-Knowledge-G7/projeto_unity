@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1529a35e823aebb43919aa468710e77c
+guid: e6297a845af93814abb15fb23f197ab1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 399073513745789359
-    second: FLORESTA BONUS_0
+      213: 2974121904050861087
+    second: "Ch\xE3o_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FLORESTA BONUS_0
+      name: "Ch\xE3o_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 800
+        width: 4096
         height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa1b5121f3bc98500800000000000000
-      internalID: 399073513745789359
+      spriteID: f14f8a93d14364920800000000000000
+      internalID: 2974121904050861087
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FLORESTA BONUS_0: 399073513745789359
+      "Ch\xE3o_0": 2974121904050861087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

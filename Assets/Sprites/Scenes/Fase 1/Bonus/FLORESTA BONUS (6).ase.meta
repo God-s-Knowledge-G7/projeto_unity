@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fa538a5d9c67238409ee89655cf3ba68
+guid: 569a85b914434914e96210d9586f4cf5
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,7 +122,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: FLORESTA BONUS NUVENS
+  - name: FLORESTA BONUS (6)
     originalName: 
     pivot: {x: 0.5, y: -2.368421}
     alignment: 9
@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 800
       height: 57
-    spriteID: 5527f306a0b0d0d46ae6c8cef1ef250d
+    spriteID: b2dec92caa7ce6f458aea0d2a6250e30
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,13 +146,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 2059761716
-    name: FLORESTA BONUS NUVENS
+    guid: -82699884
+    name: FLORESTA BONUS (6)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: FLORESTA BONUS NUVENS
+    - name: FLORESTA BONUS (6)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -160,7 +160,7 @@ ScriptedImporter:
         y: 0
         width: 800
         height: 192
-      spriteId: 5527f306a0b0d0d46ae6c8cef1ef250d
+      spriteId: b2dec92caa7ce6f458aea0d2a6250e30
     linkedCells: []
     parentIndex: -1
   platformSettings:
