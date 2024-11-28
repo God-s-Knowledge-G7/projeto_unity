@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -13,6 +14,8 @@ public class Player_Base_Controller : MonoBehaviour
     private bool FacingRight = true;
 
     private Animator playerAnimator;
+
+    private bool atkControl;
     
     void Start()
     {
@@ -27,6 +30,21 @@ public class Player_Base_Controller : MonoBehaviour
         PlayerMove();
 
         UpdateAnimator();
+
+        //atk j
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+
+            playerAtk();
+        }
+       
+        
+
+        //def k
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            playerDef();
+        }
 
     }
 
@@ -71,5 +89,14 @@ public class Player_Base_Controller : MonoBehaviour
         FacingRight = !FacingRight;
 
         transform.Rotate(0, 180, 0);
+    }
+
+    void playerAtk()
+    {
+        playerAnimator.SetTrigger("Attacking");
+    }
+    void playerDef()
+    {
+        playerAnimator.SetTrigger("Defending");
     }
 }
