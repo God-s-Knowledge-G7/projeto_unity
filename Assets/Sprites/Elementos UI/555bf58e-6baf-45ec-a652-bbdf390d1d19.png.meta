@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c85f9c26a7b582847b88ddb1e4355c88
+guid: d7d4a39a59c88d444b5764351b544c0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3567337330155713005
-    second: Grama_0
+      213: 7570851663117497617
+    second: 555bf58e-6baf-45ec-a652-bbdf390d1d19_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,7 +73,7 @@ TextureImporter:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Grama_0
+      name: 555bf58e-6baf-45ec-a652-bbdf390d1d19_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3276
+        width: 700
         height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de1fbe5b66ab18130800000000000000
-      internalID: 3567337330155713005
+      spriteID: 1153b4bb971111960800000000000000
+      internalID: 7570851663117497617
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Grama_0: 3567337330155713005
+      555bf58e-6baf-45ec-a652-bbdf390d1d19_0: 7570851663117497617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
