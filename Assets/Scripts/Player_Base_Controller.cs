@@ -16,6 +16,8 @@ public class Player_Base_Controller : MonoBehaviour
     private Animator playerAnimator;
 
     private bool atkControl;
+
+    private bool defending;
     
     void Start()
     {
@@ -34,18 +36,14 @@ public class Player_Base_Controller : MonoBehaviour
         //atk j
         if (Input.GetKeyDown(KeyCode.J))
         {
-
             playerAtk();
         }
-       
-        
 
         //def k
-        if (Input.GetKeyDown(KeyCode.K))
+        if (Input.GetKey(KeyCode.K))
         {
             playerDef();
         }
-
     }
 
     private void FixedUpdate()
