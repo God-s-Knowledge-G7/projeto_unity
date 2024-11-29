@@ -40,9 +40,15 @@ public class Player_Base_Controller : MonoBehaviour
         }
 
         //def k
-        if (Input.GetKey(KeyCode.K))
+        if (Input.GetKeyDown(KeyCode.K))
         {
-            playerDef();
+            defending = true;
+            //playerDef();
+        }
+
+        if (Input.GetKeyUp(KeyCode.K))
+        {
+            defending = false;
         }
     }
 
@@ -96,5 +102,7 @@ public class Player_Base_Controller : MonoBehaviour
     void playerDef()
     {
         playerAnimator.SetTrigger("Defending");
+
+        playerAnimator.SetBool("Defending",defending);
     }
 }
