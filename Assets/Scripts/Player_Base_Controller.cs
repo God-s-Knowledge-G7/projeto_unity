@@ -17,7 +17,7 @@ public class Player_Base_Controller : MonoBehaviour
 
     private bool atkControl;
 
-    private bool defending;
+    private bool isDefending;
     
     void Start()
     {
@@ -42,13 +42,12 @@ public class Player_Base_Controller : MonoBehaviour
         //def k
         if (Input.GetKeyDown(KeyCode.K))
         {
-            defending = true;
-            //playerDef();
+            StartDefending();
         }
 
         if (Input.GetKeyUp(KeyCode.K))
         {
-            defending = false;
+            EndDefending();
         }
     }
 
@@ -99,10 +98,16 @@ public class Player_Base_Controller : MonoBehaviour
     {
         playerAnimator.SetTrigger("Attacking");
     }
-    void playerDef()
-    {
-        playerAnimator.SetTrigger("Defending");
 
-        playerAnimator.SetBool("Defending",defending);
+    void StartDefending ()
+    {
+        isDefending = true;
+        playerAnimator.SetBool("Defending", true);
+    }
+
+    void EndDefending()
+    {
+        isDefending = false;
+        playerAnimator.SetBool("Defending", false);
     }
 }
