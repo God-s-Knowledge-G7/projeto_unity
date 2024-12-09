@@ -38,6 +38,8 @@ public class Player_Base_Controller : MonoBehaviour
 
         currentSpeed = playerSpeed;
 
+        currentHealth = maxHealth;
+
         
     }
 
