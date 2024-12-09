@@ -5,17 +5,22 @@ using UnityEngine;
 public class Player_Base_Controller : MonoBehaviour
 {
     private Rigidbody2D playerRigidBody;
+    private Animator playerAnimator;
 
+    //Variaveis para movimentação
     public float playerSpeed = 1f;
+    public float currentSpeed;
 
     public Vector2 playerDirection;
 
     private bool Walking;
     private bool FacingRight = true;
 
-    private Animator playerAnimator;
 
-    private bool atkControl;
+    //Variaveis para ataque
+    private bool attackControl;
+    private float atkTime = 0.6f;
+    public float nextAtk;
 
     private bool defending;
     
@@ -24,6 +29,10 @@ public class Player_Base_Controller : MonoBehaviour
         playerRigidBody = GetComponent<Rigidbody2D>();
 
         playerAnimator = GetComponent<Animator>();
+
+        currentSpeed = playerSpeed;
+
+        
     }
 
     
@@ -33,13 +42,14 @@ public class Player_Base_Controller : MonoBehaviour
 
         UpdateAnimator();
 
-        //atk j
-        if (Input.GetKeyDown(KeyCode.J))
+        //Dash player
+        if (Input.GetKeyUp(KeyCode.L))
         {
-            playerAtk();
+            currentSpeed = 10;
+            playerDash();
         }
 
-        //def k
+        //Defesa player
         if (Input.GetKeyDown(KeyCode.K))
         {
             defending = true;
@@ -53,7 +63,7 @@ public class Player_Base_Controller : MonoBehaviour
     }
 
     private void FixedUpdate()
-    {
+    { 
         if (playerDirection.x != 0 || playerDirection.y != 0)
         {
             Walking = true;
@@ -64,8 +74,16 @@ public class Player_Base_Controller : MonoBehaviour
             Walking = false;
         }
 
-        playerRigidBody.MovePosition(playerRigidBody.position + playerSpeed * Time.fixedDeltaTime * playerDirection);
+        playerRigidBody.MovePosition(playerRigidBody.position + currentSpeed * Time.fixedDeltaTime * playerDirection);
 
+        //Ataque player
+        if (Input.GetKeyDown(KeyCode.J) && Time.time > nextAtk)
+        {
+            zeroSpeed();
+            playerAtk();
+
+            nextAtk = Time.time + atkTime;
+        }
     }
 
     void PlayerMove()
@@ -104,5 +122,20 @@ public class Player_Base_Controller : MonoBehaviour
         playerAnimator.SetTrigger("Defending");
 
         playerAnimator.SetBool("Defending",defending);
+    }
+
+    void playerDash()
+    {
+        playerAnimator.SetTrigger("Dash");
+    }
+
+    void zeroSpeed()
+    {
+        currentSpeed = 0;
+    }
+
+    void resetSpeed()
+    {
+        currentSpeed = playerSpeed;
     }
 }
