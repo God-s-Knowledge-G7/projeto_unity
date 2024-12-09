@@ -23,6 +23,12 @@ public class Player_Base_Controller : MonoBehaviour
     public float nextAtk;
 
     private bool isDefending;
+
+    //Vida
+    public int maxHealth = 20;
+    public int currentHealth;
+
+    public Sprite PlayerPortrait;
     
     void Start()
     {
@@ -43,16 +49,25 @@ public class Player_Base_Controller : MonoBehaviour
         UpdateAnimator();
 
         //Dash player
-        if (Input.GetKeyUp(KeyCode.L))
+        if (Input.GetKeyUp(KeyCode.L) && (playerDirection.x != 0 || playerDirection.y != 0))
         {
-            currentSpeed = 10;
             playerDash();
+        }
+
+        //Ataque player
+        if (Input.GetKeyDown(KeyCode.J) && Time.time > nextAtk)
+        {
+            zeroSpeed();
+            playerAtk();
+
+            nextAtk = Time.time + atkTime;
         }
 
         //Defesa player
         if (Input.GetKeyDown(KeyCode.K))
         {
             StartDefending();
+            zeroSpeed();
         }
 
         if (Input.GetKeyUp(KeyCode.K))
@@ -75,14 +90,7 @@ public class Player_Base_Controller : MonoBehaviour
 
         playerRigidBody.MovePosition(playerRigidBody.position + currentSpeed * Time.fixedDeltaTime * playerDirection);
 
-        //Ataque player
-        if (Input.GetKeyDown(KeyCode.J) && Time.time > nextAtk)
-        {
-            zeroSpeed();
-            playerAtk();
-
-            nextAtk = Time.time + atkTime;
-        }
+        
     }
 
     void PlayerMove()
@@ -119,19 +127,22 @@ public class Player_Base_Controller : MonoBehaviour
 
     void StartDefending ()
     {
-        isDefending = true;
-        playerAnimator.SetBool("Defending", true);
+        playerAnimator.SetTrigger("DefendON");
     }
 
     void EndDefending()
     {
-        isDefending = false;
-        playerAnimator.SetBool("Defending", false);
+        playerAnimator.SetTrigger("DefendOff");
     }
 
     void playerDash()
     {
         playerAnimator.SetTrigger("Dash");
+    }
+
+    void DashSpeed()
+    {
+        currentSpeed = 3.5f;
     }
 
     void zeroSpeed()
