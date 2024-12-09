@@ -5,23 +5,40 @@ using UnityEngine;
 public class Player_Base_Controller : MonoBehaviour
 {
     private Rigidbody2D playerRigidBody;
+    private Animator playerAnimator;
 
+    //Variaveis para movimentação
     public float playerSpeed = 1f;
+    public float currentSpeed;
 
     public Vector2 playerDirection;
 
     private bool Walking;
     private bool FacingRight = true;
 
-    private Animator playerAnimator;
 
-    private bool atkControl;
+    //Variaveis para ataque
+    private bool attackControl;
+    private float atkTime = 0.6f;
+    public float nextAtk;
+
+    private bool isDefending;
+
+    //Vida
+    public int maxHealth = 20;
+    public int currentHealth;
+
+    public Sprite PlayerPortrait;
     
     void Start()
     {
         playerRigidBody = GetComponent<Rigidbody2D>();
 
         playerAnimator = GetComponent<Animator>();
+
+        currentSpeed = playerSpeed;
+
+        
     }
 
     
@@ -31,25 +48,36 @@ public class Player_Base_Controller : MonoBehaviour
 
         UpdateAnimator();
 
-        //atk j
-        if (Input.GetKeyDown(KeyCode.J))
+        //Dash player
+        if (Input.GetKeyUp(KeyCode.L) && (playerDirection.x != 0 || playerDirection.y != 0))
         {
-
-            playerAtk();
+            playerDash();
         }
-       
-        
 
-        //def k
+        //Ataque player
+        if (Input.GetKeyDown(KeyCode.J) && Time.time > nextAtk)
+        {
+            zeroSpeed();
+            playerAtk();
+
+            nextAtk = Time.time + atkTime;
+        }
+
+        //Defesa player
         if (Input.GetKeyDown(KeyCode.K))
         {
-            playerDef();
+            StartDefending();
+            zeroSpeed();
         }
 
+        if (Input.GetKeyUp(KeyCode.K))
+        {
+            EndDefending();
+        }
     }
 
     private void FixedUpdate()
-    {
+    { 
         if (playerDirection.x != 0 || playerDirection.y != 0)
         {
             Walking = true;
@@ -60,8 +88,9 @@ public class Player_Base_Controller : MonoBehaviour
             Walking = false;
         }
 
-        playerRigidBody.MovePosition(playerRigidBody.position + playerSpeed * Time.fixedDeltaTime * playerDirection);
+        playerRigidBody.MovePosition(playerRigidBody.position + currentSpeed * Time.fixedDeltaTime * playerDirection);
 
+        
     }
 
     void PlayerMove()
@@ -95,8 +124,34 @@ public class Player_Base_Controller : MonoBehaviour
     {
         playerAnimator.SetTrigger("Attacking");
     }
-    void playerDef()
+
+    void StartDefending ()
     {
-        playerAnimator.SetTrigger("Defending");
+        playerAnimator.SetTrigger("DefendON");
+    }
+
+    void EndDefending()
+    {
+        playerAnimator.SetTrigger("DefendOff");
+    }
+
+    void playerDash()
+    {
+        playerAnimator.SetTrigger("Dash");
+    }
+
+    void DashSpeed()
+    {
+        currentSpeed = 3.5f;
+    }
+
+    void zeroSpeed()
+    {
+        currentSpeed = 0;
+    }
+
+    void resetSpeed()
+    {
+        currentSpeed = playerSpeed;
     }
 }
