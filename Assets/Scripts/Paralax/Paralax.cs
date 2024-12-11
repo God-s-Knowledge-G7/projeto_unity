@@ -32,12 +32,14 @@ public class Paralax : MonoBehaviour
 
             layers = new ParallaxLayer[childTransforms.Length - 1];
 
+            float baseSpeed = 0.2f;
+
             for (int i = 1; i < childTransforms.Length; i++)
             {
                 layers[i - 1] = new ParallaxLayer
                 {
                     backgroundTransform = childTransforms[i],
-                    speed = 0.2f
+                    speed = baseSpeed * Mathf.Pow(2, i-1)
                 };
             }
         }
