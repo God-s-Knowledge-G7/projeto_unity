@@ -25,8 +25,16 @@ public class TinteiroController : MonoBehaviour
 
     private float walkTimer;
 
+    //variaveis para ataque
+    private float nextAtk;
+    private float atkRate = 3f;
+    private float atkDestiny = 5f;
+
     public int maxHealth = 20;
     public int currentHealth;
+
+
+    public Vector3 targetDistance;
 
     void Start()
     {
@@ -69,16 +77,18 @@ public class TinteiroController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (!isDead)
+        {
             //MOVIMENTAÇÃO
 
             //Variavel para armezanar a distancia com o player
-            Vector3 targetDistance = player.position - transform.position;
+            targetDistance = player.position - transform.position;
 
           
             xForce = targetDistance.x / Mathf.Abs(targetDistance.x);
 
             //Entre 1 e 3 seg , será feita uma definição de direção vertical
-            if (walkTimer >= Random.Range(1f, 2f))
+            if (walkTimer >= Random.Range(2f, 3f))
             {
                 yForce = Random.Range(-1, 2);
 
@@ -86,20 +96,45 @@ public class TinteiroController : MonoBehaviour
             }
 
             //parar a movimentação quando estiver perto do player
-            if (Mathf.Abs(targetDistance.x) < 0.25)
+            if (Mathf.Abs(targetDistance.x) < 0.25f)
             {
                 xForce = 0;
             }
 
-            //aplica velocidade e faz com que se movimente
+            if (Mathf.Abs(targetDistance.y) <= 0.1f)
+            {
+                yForce = 0;
+            }
 
-            rb.linearVelocity = new Vector2(xForce * currentSpeed, yForce * currentSpeed);
-        
+            //aplica velocidade e faz com que se movimente
+            Moviment();
+           
+
+            //ATAQUE
+
+            if (Mathf.Abs(targetDistance.x) < 0.9f && Mathf.Abs(targetDistance.y) <= 0.1f)
+            {
+                print("PErtooo");
+                
+                animator.SetTrigger("Attack");
+
+                ZeroSpeed();
+            }
+
+        }
+
     }
 
     void UptadeAnimator()
     {
         animator.SetBool("isWalking", isWalking);
+    }
+
+    void Moviment()
+    {
+        rb.linearVelocity = new Vector2(xForce * currentSpeed, yForce * currentSpeed);
+
+     
     }
 
     void ZeroSpeed()
@@ -110,10 +145,14 @@ public class TinteiroController : MonoBehaviour
     void ResetSpeed()
     {
         currentSpeed = inkSpeed;
+        
     }
 
-    void AtkSpeed()
+    void AtkDash()
     {
-        currentSpeed = 3f;
+        currentSpeed = 5f;
+
+      
+        transform.position = transform.position + (xForce * targetDistance);
     }
 }
