@@ -52,7 +52,7 @@ public class TinteiroController : MonoBehaviour
     void Update()
     {
         //verifica se o player está a direita/esquerda e vira o inimigo para o lado que o player está
-        if (player.position.x < this.transform.position.x)
+        if (xForce < 0)
         {
             facingRight = false;
         }
@@ -85,34 +85,27 @@ public class TinteiroController : MonoBehaviour
             targetDistance = player.position - transform.position;
 
           
-            xForce = targetDistance.x / Mathf.Abs(targetDistance.x);
+            //xForce = targetDistance.x / Mathf.Abs(targetDistance.x);
 
+            
+            
             //Entre 1 e 3 seg , será feita uma definição de direção vertical
             if (walkTimer >= Random.Range(2f, 3f))
             {
                 yForce = Random.Range(-1, 2);
+                xForce = Random.Range(-1, 2);
 
                 walkTimer = 0;
             }
 
-            //parar a movimentação quando estiver perto do player
-            if (Mathf.Abs(targetDistance.x) < 0.25f)
-            {
-                xForce = 0;
-            }
-
-            if (Mathf.Abs(targetDistance.y) <= 0.1f)
-            {
-                yForce = 0;
-            }
-
+            
             //aplica velocidade e faz com que se movimente
             Moviment();
            
 
             //ATAQUE
 
-            if (Mathf.Abs(targetDistance.x) < 0.9f && Mathf.Abs(targetDistance.y) <= 0.1f)
+            if (Mathf.Abs(targetDistance.x) < 0.9f && Mathf.Abs(targetDistance.y) <= 0.25f)
             {
                 print("PErtooo");
                 
@@ -133,8 +126,6 @@ public class TinteiroController : MonoBehaviour
     void Moviment()
     {
         rb.linearVelocity = new Vector2(xForce * currentSpeed, yForce * currentSpeed);
-
-     
     }
 
     void ZeroSpeed()
@@ -152,7 +143,8 @@ public class TinteiroController : MonoBehaviour
     {
         currentSpeed = 5f;
 
-      
-        transform.position = transform.position + (xForce * targetDistance);
+        rb.linearVelocity = new Vector2(1 * currentSpeed, 0);
+
+        
     }
 }
